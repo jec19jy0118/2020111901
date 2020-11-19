@@ -1,2 +1,3 @@
 class helloWorld{
+  int i;
 }
